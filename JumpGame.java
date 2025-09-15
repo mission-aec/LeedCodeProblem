@@ -1,4 +1,4 @@
-package LeedCodeProblem;
+
 //problem 55 
 public class JumpGame {
         public static boolean canJump(int[] nums) {
