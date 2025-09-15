@@ -1,4 +1,4 @@
-package LeedCodeProblem;
+
 
 public class LongestCommonPrefix {
 
