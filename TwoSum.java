@@ -1,5 +1,4 @@
 package LeedCodeProblem;
-
 class TwoSum {
     public static int[] twoSum(int[] nums, int target) {
            int[] array = new int[2]; 
