@@ -1,4 +1,4 @@
-package LeedCodeProblem;
+
 
 public class removeElement {
     public static int remove(int[] nums, int val) {
